@@ -1,0 +1,62 @@
+{
+  "resultados": {
+    "exi-t026": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t027": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t028": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t029": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t030": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t031": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t032": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t033": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t034": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-t035": {
+      "errores": [],
+      "avisos": []
+    }
+  },
+  "balance": {
+    "por_etapa": {
+      "transversal": 10
+    },
+    "por_tipo": {
+      "hecho": 4,
+      "reformulacion": 2,
+      "perspectivas": 3,
+      "humano": 1
+    },
+    "perspectiva_fuentes_por_etapa": {
+      "transversal": {
+        "gobierno_eeuu": 27,
+        "organismo_internacional": 3,
+        "ninguna": 2
+      }
+    }
+  }
+}
