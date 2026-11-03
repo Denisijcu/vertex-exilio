@@ -1,61 +1,67 @@
 {
   "resultados": {
-    "exi-t026": {
+    "exi-cv001": {
       "errores": [],
       "avisos": []
     },
-    "exi-t027": {
+    "exi-cv002": {
       "errores": [],
       "avisos": []
     },
-    "exi-t028": {
+    "exi-cv003": {
       "errores": [],
       "avisos": []
     },
-    "exi-t029": {
+    "exi-cv004": {
       "errores": [],
       "avisos": []
     },
-    "exi-t030": {
+    "exi-cv005": {
       "errores": [],
       "avisos": []
     },
-    "exi-t031": {
+    "exi-cv006": {
       "errores": [],
       "avisos": []
     },
-    "exi-t032": {
+    "exi-cv007": {
       "errores": [],
       "avisos": []
     },
-    "exi-t033": {
+    "exi-cv008": {
       "errores": [],
       "avisos": []
     },
-    "exi-t034": {
+    "exi-cv009": {
       "errores": [],
       "avisos": []
     },
-    "exi-t035": {
+    "exi-cv010": {
+      "errores": [],
+      "avisos": []
+    },
+    "exi-cv011": {
       "errores": [],
       "avisos": []
     }
   },
   "balance": {
     "por_etapa": {
-      "transversal": 10
+      "cuba_venezuela": 11
     },
     "por_tipo": {
-      "hecho": 4,
-      "reformulacion": 2,
-      "perspectivas": 3,
-      "humano": 1
+      "hecho": 6,
+      "humano": 1,
+      "perspectivas": 2,
+      "reformulacion": 1,
+      "contexto": 1
     },
     "perspectiva_fuentes_por_etapa": {
-      "transversal": {
-        "gobierno_eeuu": 27,
-        "organismo_internacional": 3,
-        "ninguna": 2
+      "cuba_venezuela": {
+        "ninguna": 34,
+        "gobierno_cubano": 1,
+        "gobierno_eeuu": 6,
+        "academica": 6
       }
     }
   }
